@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="home_screen">Inicio</string>
+    <string name="back_btn_desc">Mensaje de snack bar</string>
+    <string name="home_fab_text">Mensaje de toast</string>
+    <string name="bottom_app_bar"> Inferiror </string>
+    <string name="materia">Movil Aplication</string>
+    <string name="nombre">Mayra Vanessa</string>
+    <string name="apellido">Capetillo Gonzales</string>
+    <string name="figura_android">Android Ilustration</string>
+</resources>

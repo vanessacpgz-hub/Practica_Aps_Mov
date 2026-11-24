@@ -1,12 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Testing</string>
+    <string name="app_name">Prueba</string>
     <string name="home_screen">Inicio</string>
-    <string name="back_btn_desc">Mensaje de snack bar</string>
+    <string name="back_btn_desc">Regresar</string>
     <string name="home_fab_text">Mensaje de toast</string>
-    <string name="bottom_app_bar"> Inferiror </string>
-    <string name="materia">Movil Aplication</string>
+    <string name="bottom_app_bar">Inferior</string>
+    <string name="materia">Aplicación Móvil</string>
     <string name="nombre">Mayra Vanessa</string>
-    <string name="apellido">Capetillo Gonzales</string>
-    <string name="figura_android">Android Ilustration</string>
+    <string name="apellido">Capetillo González</string>
+    <string name="figura_android">Ilustración de Android</string>
+
+    <string name="favorite_desc">Marcar como favorito</string>
+    <string name="share_desc">Compartir</string>
+    <string name="fab_desc">Agregar</string>
+    <string name="snackbar_msg">Elemento agregado</string>
+    <string name="food_desc">Comida</string>
+    <string name="like_desc">Me gusta</string>
+
+    <!-- Menú desplegable -->
+    <string name="options_menu">Más opciones</string>
+    <string name="profile">Camara</string>
+    <string name="config">Facebook</string>
+    <string name="logout">Cerrar sesión</string>
+
+    <string name="whatsapp_message">Hola mi amor, estoy probando mi app, te amoooOOo</string>
+    <string name="whatsapp_not_installed">WhatsApp no está instalado</string>
+    <string name="whatsapp_menu_item">Enviar por WhatsApp</string>
+
+    <string name="second_screen">Second Screen</string>
+    <string name="second_welcome">Welcome to the Second Screen!</string>
+    <string name="back_to_main">Back to Main</string>
+
+    <string name="camera_not_available">No hay una app de cámara disponible</string>
 </resources>
